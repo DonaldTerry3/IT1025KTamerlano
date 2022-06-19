@@ -1,16 +1,14 @@
-## Your Name / Date
+## Donald Terry III / 6-18-22
 
 ## Executive Summary
-This is an example, please delete and create your own professional summary:
-The purpose of Lab 1 is to explore the IT1025 course set-up, examine the history of computing and get up and running with GitHub. IT1025 covers a wide-range of computing topics with a primary goal of assisting in determining student passions in IT.  IT history has many interesting facets. One of particular interest was... Regardless of one's passion in IT, frameworks such as GitHub are useful to create, update and maintain any type of file and work in an organized repository.
+Experience in C# and robotics.
 
 ## Information System Components
-
+Information systems collect, store, organize, and distribute data throughout the organization. You may have even realized that one of the roles of information systems is to take data and turn it into information, and then transform that information into organizational knowledge. As technology has developed, this role has evolved into the backbone of the organization, making information systems integral to virtually every business. When thinking about information systems, it is easy to focus on the technology components and forget to look beyond these tools to fully understand their integration into an organization. A focus on the people involved in information systems is the next step. From the front-line user support staff, to systems analysts, to developers, all the way up to the chief information officer, the people involved with information systems are an essential element. Amazon has developed different software and hardware such as Fire TV and its software Fire OS, that is used on all devices. Data is gathered from the platfors to achieve the ultimate goal to improve processes both internally and externally, enhancing interfaces with suppliers and customers.
 ## GitHub
-### Client - Server Architecture
+In the first week of workking with GitHub I learned to build a class repository to house all course work. I also practiced editing and applying markdown language to the lab GitHub readme.md file.
+## Client - Server Architecture
 ### Cloud Computing
 
 ## Conclusion
-This is an example, please delete and create your own professional summary:
-Through the course of this lab I learned about the course requirements for IT1025 as well as an overview of client-server architecture and GitHub.  I found GitHub to be interesting but initially had difficulty creating a respoitory.  I revisited the process but was still stumped so I contacted my instructor and with a few pointers was then able to complete the process successfully. I look forward to spending more time on GitHub and eventually learning about database which I believe is my current IT passion.
-
+While working on lab I learned how to build a class repository for course work. I found GitHub to be enjoyable and I look forward to spending more time on GitHub and eventually learning about database which I beleive will help me understand my passion in IT.
