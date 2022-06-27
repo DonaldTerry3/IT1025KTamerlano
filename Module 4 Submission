@@ -1,0 +1,23 @@
+Application is a computer software package that performs a specific function directly for an end user or, in some cases, for another application. Example 
+microsoft office.
+
+In computers, a utility is a small program that provides an addition to the capabilities provided by the operating system.An example would be antivirus.
+
+An operating system is the program that, after being initially loaded into the computer by a boot program, manages all of the other
+application programs in a computer. An example is linux.
+
+Enterprise resource planning (ERP) refers to a type of software that organizations use to manage day-to-day business activities such as accounting, procurement,
+project management, risk management and compliance, and supply chain operations.
+
+Visualization:Virtualization is technology that lets you create useful IT services using resources that are traditionally bound to hardware. It allows you to
+use a physical machine’s full capacity by distributing its capabilities among many users or environments.Software called hypervisors separate the physical 
+resources from the virtual environments—the things that need those resources. Hypervisors can sit on top of an operating system or be
+installed directly onto hardware, which is how most enterprises virtualize. Hypervisors take your physical resources and divide them up
+so that virtual environments can use them.
+
+Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented
+programming. Python's elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application
+development in many areas on most platforms.
+
+In a compiled language, the target machine directly translates the program. In an interpreted language, the source code is not directly translated by the target
+machine. Instead, a different program, or the interpreter, reads and executes the code.
