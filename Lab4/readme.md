@@ -14,8 +14,11 @@ floating point numbers, integer numbers, characters and Booleans.
 ## Graphics
 
 ### Raster vs. Vector Graphics
+Vector graphics are digital art that is rendered by a computer using a mathematical formula. Raster images are made up of tiny pixels, making them resolution dependent and best used for creating photos.
 ### Lossless vs. Lossy Compression
+lossy compression is recommended for most websites since it can significantly reduce file sizes without removing any noticeable data. However, lossless compression might be better if you're more concerned about image quality than loading times.
 ### File Formats
+Use JPG format for all images that contain a natural scene or photograph where variation in colour and intensity is smooth. Use PNG format for any image that needs transparency, or for images with text & objects with sharp contrast edges like logos. Use GIF format for images that contain animations.
 ### File Properties
 
 ## Conclusion
