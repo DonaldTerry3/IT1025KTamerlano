@@ -4,6 +4,8 @@
 Include your executive summary here...
 
 ## Software
+Operating Systems:
+I went to finder then launchpad to find the terminal then entered the command mkdir. After that I added a file in directory.  
 ### Types of Software
 ### ERP
 
