@@ -1,4 +1,4 @@
-## Your Name / Date
+## Donald Terry/ July
 
 ## Executive Summary 
 Include your executive summary here...
