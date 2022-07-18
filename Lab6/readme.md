@@ -5,10 +5,10 @@ Include your executive summary here...
 
 ## Internet Architecture
 ### Internet Protocol
-#### IP Address
-#### ICANN
+#### IP Address:example address might be 192.158. 1.38
+#### ICANN:For example, the domain name "whois.icann.org" has three levels of hierarchy: "org" is the top-level, "icann" is the second-level, and "whois" is the third-level
 
-### TCP/IP
+### TCP/IP:a person accessing a website.
 #### Responsibility of TCP/IP
 #### Client-Server Model and TCP/IP
 #### Layers
