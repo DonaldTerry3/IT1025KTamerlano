@@ -29,8 +29,7 @@ Single point of failure is where an array of servers is networked through a sing
 This diagram of infrastructure topology shows the devices communicating with the wired LAN via base stations called an AP, which acts as a bridge between wired and wireless LANs.
 ### NSA/CSS
 
-###Protocol
-Protocol is an established set of rules that determine how data is transmitted between different devices in the same network. Essentially, it allows connected devices to communicate with each other, regardless of any differences in their internal processes, structure or design.
+###Protocol is an established set of rules that determine how data is transmitted between different devices in the same network. Essentially, it allows connected devices to communicate with each other, regardless of any differences in their internal processes, structure or design.
 
 ## Cybersecurity and Encryption
 
