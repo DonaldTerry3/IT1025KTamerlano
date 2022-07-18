@@ -36,19 +36,36 @@ This diagram of infrastructure topology shows the devices communicating with the
 ### Information Systems Security
 
 #### Security Triad
+Confidentiality is roughly equivalent to privacy. Confidentiality measures are designed to prevent sensitive information from unauthorized access attempts. It is common for data to be categorized according to the amount and type of damage that could be done if it fell into the wrong hands. More or less stringent measures can then be implemented according to those categories. Passwords and user names can be an exapmle.
+Integrity involves maintaining the consistency, accuracy and trustworthiness of data over its entire lifecycle. Data must not be changed in transit, and steps must be taken to ensure data cannot be altered by unauthorized people (for example, in a breach of confidentiality). Multistep authentication is an example.
+Availability means information should be consistently and readily accessible for authorized parties. This involves properly maintaining hardware and technical infrastructure and systems that hold and display the information. A website for the information to be stored is an example. 
 #### Authentication
 #### ACL and RBAC
 #### Ciphertext, Public Key and Private Key
 #### Public Key Cryptography
-
+Only the owner of the private key can encrypt data so that the public key decrypts it; meanwhile, anyone can encrypt data with the public key, but only the owner of the private key can decrypt it.
 ### Cryptography
 #### Encryption
 #### Frequency Fingerprint
 #### Polyalphabetic Cipher
+Caesar method is encrypted by shifting 3 letters in message and the polyalphabetic cipher is encrypted by shifting letters according to position in alphabet and is repeated alongside message. 
 #### Polyalphabetic Example
 
 #### Brute-Force
+How to prevent Brute Force:
+-Use long, unique passwords. Brute forcing becomes exponentially harder with longer passwords. You can thwart dictionary attacks by making your passwords more unique. If in doubt, use a password manager to automatically generate and save random passwords for each site.
 
+-Secure remote desktop connections as much as possible. Remote desktop is a popular way for attackers to get access to your computer. Leave remote desktop off as much as possible. When it’s on, use an extremely strong password.
+
+-Use two-factor authentication. A brute-force attack is far more difficult when a correct password isn’t enough to log into an account. With 2FA, users need their phone or a physical security key to log into their accounts. This makes your account far more secure.
+
+-Use rate limiting. If you run a server, make sure that hackers can’t try passwords very fast. They might get discouraged and give up if the delay is long enough.
+
+-Don’t use account lockouts. If you own a website, it might make sense to lock accounts after a certain number of incorrect attempts. However, this lets an attacker perform a denial of service attack by locking out lots of accounts.
+
+-Secure SSH appropriately. Enable fail2ban, disable password logins (in favor of SSH keys), and turn off root login from SSH.
+
+-Hash and salt your passwords with modern algorithms. MD5 or another very basic hash algorithm is hardly better than nothing. Use a modern hash function and salt to prevent rainbow table attacks.
 ## Conclusion
 Include your professional conclusion here...
 
