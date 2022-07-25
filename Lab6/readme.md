@@ -36,10 +36,15 @@ Sir Tim Berners-Lee invented the World Wide Web in 1989. W3C was created to enga
 ### HTML and XML
 
 ## Components of a URL
-​scheme:https
-top level domain:www.amazon.com
+​scheme:https This tells your browser what type of address it is so the browser connects to it correctly
+
+top level domain:www.amazon.com most prominent part of a web address.The domain on the right
+
 default page:the introductory page of a website, typically serving as a table of contents for the site.
+
  parameters:Some URL's include a string of characteres after the path beginning with a question mark. 
- anchor:Tells your browser to scroll or to load a specific part of page. 
+ 
+ anchor:Tells your browser to scroll or to load a specific part of page.
+ 
 ## Conclusion
 Include your conclusion here...
