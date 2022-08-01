@@ -28,7 +28,16 @@ IV.. What is a class vs. an object and what does it mean to "instantiate an obje
 Class — A blueprint created by a programmer for an object. This defines a set of attributes that will characterize any object that is instantiated from this class.
 Object — An instance of a class. This is the realized version of the class, where the class is manifested in the program.
 ### Instantiated Objects
+What command did you use to instantiate an object and what are the instantiated objects of the shark class? 
+ The command used to initiate an object was sammy = Shark() __init__. Instantiated objects is an instance of an object can be declared by giving it a unique name that can be used in a program.
+What is inheritance in OOP? Provide an example related to the shark class. 
+ 
 ### Inheritance
+Inheritance is a class derives from another class.
+example:   class Shark:
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
 ### Encapsulation and Abstraction
 
 ## Unified Modeling Language (UML)
