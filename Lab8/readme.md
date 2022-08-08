@@ -48,7 +48,17 @@ Primary and foreign keys help create structure in relational databases. A primar
 SQL injection attacks allow attackers to spoof identity, tamper with existing data, cause repudiation issues such as voiding transactions or changing balances, allow the complete disclosure of all data on the system, destroy the data or make it otherwise unavailable, and become administrators of the database server. The only sure way to prevent SQL Injection attacks is input validation and parametrized queries including prepared statements. 
 ## Ethical and Legal Implications
 ### Code of Ethics
+One method for navigating new ethical waters is a code of ethics. A code of ethics is a document that outlines a set of acceptable behaviors for a professional or social group; generally, it is agreed to by all members of the group. The document details different actions that are considered appropriate and inappropriate. The ACM created Code is designed to inspire and guide the ethical conduct of all computing professionals, including current and aspiring practitioners, instructors, students, influencers, and anyone who uses computing technology in an impactful way. Additionally, the Code serves as a basis for remediation when violations occur.
+
+
 ### Intellectual Property
+A trademark most often protects IP associated with companies, such as a word, phrase, symbol or design used to identify and promote products or services. Companies may also use a service mark, which protects their services in the same way trademarks protect their goods. It is impotant to copyright the svg image because the owner can then invoice or even sue you for damages. Copyright is the protection given to songs, computer programs, books, and other creative works; any work that has an “author” can be copyrighted.
+
+To comply with COPPA, organizations must make a good-faith effort to determine the age of those accessing their websites and, if users are under thirteen years old, must obtain parental consent before collecting any information.
+
+FERPA is a US law that protects the privacy of student education records.In brief, this law specifies that parents have a right to their child’s educational information until the child reaches either the age of eighteen or begins attending school beyond the high school level. At that point, control of the information is given to the child. 
+
+HIPAA is the law the specifically singles out records related to health care as a special class of personally identifiable information. This law gives patients specific rights to control their medical records, requires health care providers and others who maintain this information to get specific permission in order to share it, and imposes penalties on the institutions that breach this trust.
 ### Information Collection
 
 ## Conclusion
