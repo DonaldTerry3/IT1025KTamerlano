@@ -45,7 +45,7 @@ A NoSQL database can work with data in a looser way, allowing for a more unstruc
 ### Relationship, Primary and Foreign Keys
 Primary and foreign keys help create structure in relational databases. A primary key ensures unique row identification. This results in faster sorting, searching, and querying operations. A foreign key creates a link between two tables.
 ## SQL Injections
-
+SQL injection attacks allow attackers to spoof identity, tamper with existing data, cause repudiation issues such as voiding transactions or changing balances, allow the complete disclosure of all data on the system, destroy the data or make it otherwise unavailable, and become administrators of the database server. The only sure way to prevent SQL Injection attacks is input validation and parametrized queries including prepared statements. 
 ## Ethical and Legal Implications
 ### Code of Ethics
 ### Intellectual Property
