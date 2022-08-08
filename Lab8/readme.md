@@ -15,19 +15,35 @@ In a RGB color space, hex #ab0fff is composed of 67.1% red, 5.9% green and 100% 
 ### Compare and contrast data, information and knowledge
 
 ### Relational Data
-#### Primary Key:
+#### Primary Key:Primary and foreign keys help create structure in relational databases. A primary key ensures unique row identification. This results in faster sorting, searching, and querying operations.
 #### Relationship between customers and orders:
-#### Foreign key of orders table:
+#### Foreign key of orders table:A foreign key creates a link between two tables.
 ### Field Data Types
 
 ### Big Data
+
+Data and Buisness Decisions
+Three business decisions that could be answered with a well-designed database.
+
+1.)Businesses can utilize outside intelligence while taking decisions.
+Access to social data from search engines and sites like Facebook and Twitter is enabling organizations to fine-tune their business strategies.
+
+2.)Improved customer service
+Traditional customer feedback systems are getting replaced by new systems designed with Big Data technologies. In these new systems, Big Data and natural language processing technologies are being used to read and evaluate consumer responses. 
+
+3.)Early identification of risk to the product/services, if any, and better operational efficiency.
+Big Data technologies can be used for creating a staging area or landing zone for new data before identifying what data should be moved to the data warehouse. In addition, such integration of Big Data technologies and data warehouses helps an organization to offload infrequently accessed data.
+
+
 #### Four "V"s of Big Data
 #### Technology Driving the need for Big Data
-
+Social media and jet engines have demand for big data. 
 ## Structured Query Language (SQL) 
+The primary way to work with a relational database is to use Structured Query Language, SQL. Almost all applications that work with databases make use of SQL as a way to analyze and manipulate relational data. As its name implies, SQL is a language that can be used to work with a relational database. From a simple request for data to a complex update operation, SQL is a mainstay of programmers and database administrators.
+A NoSQL database can work with data in a looser way, allowing for a more unstructured environment, communicating changes to the data over time to all the servers that are part of the database.
 ### RDBMS and SQL
 ### Relationship, Primary and Foreign Keys
-
+Primary and foreign keys help create structure in relational databases. A primary key ensures unique row identification. This results in faster sorting, searching, and querying operations. A foreign key creates a link between two tables.
 ## SQL Injections
 
 ## Ethical and Legal Implications
